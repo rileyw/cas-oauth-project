@@ -3,7 +3,7 @@
   "clientId": "oauthclient",
   "clientSecret": "secret",
   "bypassApprovalPrompt": true,
-  "serviceId" : "^(https?|imaps?)\/\/:.*",
+  "serviceId" : "oauthclient",
   "name" : "OAuthTest",
   "id" : 1001,
   "evaluationOrder" : 1,
